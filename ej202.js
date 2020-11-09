@@ -9,7 +9,7 @@ function Ej201(){
 
 //Funcion Arrow-function
 const ej202 = () => {
-    return <h1> Ejercicio 202 Arrow function </h1>
+    return <h1> Ejercicio 202 Arrow functi </h1>
 }
 
 export default ej202;
